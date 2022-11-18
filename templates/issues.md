@@ -2,16 +2,15 @@
 </br>
 
 ```
-Description
+Description: What's the problem?
 ```
 _When I interact with X in the app I am unable to do Y_
 
 </br>
 
 ```
-Reproduction Steps
+Reproduction Steps: What steps did you take?
 ```
-What steps did you take?
 
 _1. Opened the app..._
 
@@ -22,18 +21,16 @@ _3. Computer explodes..._
 </br>
 
 ```
-Expected behavior
+Expected behavior: What did you think would happen?
 ```
-What did you think would happen?
 
 _I thought something really fun would happen because the button was big and red_
 
 </br>
 
 ```
-Observed behavior:
+Observed behavior: What actually happened?
 ```
-What actually happened?
 
 _The computer fully exploded, and it's parts are everywhere..._
 
@@ -41,9 +38,8 @@ _The computer fully exploded, and it's parts are everywhere..._
 
 
 ```
-Screenshots and GIFs
+Screenshots and GIFs: Can you show us?
 ```
-Can you show us?
 
 ![?](suprise.gif)
 
@@ -51,14 +47,14 @@ Can you show us?
 
 
 ```
-OS name and version
+Device, OS name and version: What device are you on?
 ```
-_MacOS 13.0.1_
+ _Macbook Pro 14-inch 2021 - MacOS 13.0.1_
 
 </br>
 
 ```
-Enter browser name and full version
+Browser: What version?
 ```
 _Google Chrome,
 Version 107.0.5304.110 (Official Build) (arm64)_
