@@ -50,10 +50,8 @@ body:
   - type: markdown
     id: visuals
     attributes:
-      label: Screenshots / Gifs
-      description: Can you show us what happened visually?
-      placeholder: Add an image or gif
-      value: "image"
+      value: |
+        Any images of gifs?
   - type: checkboxes
     id: terms
     attributes:
