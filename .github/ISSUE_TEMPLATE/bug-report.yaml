@@ -53,7 +53,7 @@ body:
       label: Images / Gifs
       description: Can you show us visually? 
       placeholder: Drop an image here!
-      value: "somebug.gif"
+      value: "Drop an image or Gif here!"
     validations:
       required: true 
   - type: checkboxes
