@@ -1,28 +1,75 @@
-Bug Report Template
-[Describe your experience]
+# Bug Report Template
+</br>
 
-**Reproduction Steps:**
+```
+Description
+```
+_When I interact with X in the app I am unable to do Y_
 
-1. [First Step]
-2. [Second Step]
-3. [Other Steps...]
+</br>
 
-**Expected behavior:**
+```
+Reproduction Steps
+```
+What steps did you take?
 
-[What did you expect to happen?]
+_1. Opened the app..._
 
-**Observed behavior:**
+_2. Clicked the button..._
 
-[Describe observed behavior here]
+_3. Computer explodes..._
 
-**Screenshots and GIFs**
+</br>
 
-[Screenshots and GIFs which follow reproduction steps to demonstrate the problem]
+```
+Expected behavior
+```
+What did you think would happen?
 
-**OS and version:** [Enter OS name and version here]
+_I thought something really fun would happen because the button was big and red_
 
-**Browser and version:** [Enter browser name and version here]
+</br>
 
-**User information:** [If relevant anything specific to you like logs, public links, wallet address.] 
+```
+Observed behavior:
+```
+What actually happened?
 
-PLEASE TAKE CARE TO NOT UPLOAD SENSITIVE INFORMATION
+_The computer fully exploded, and it's parts are everywhere..._
+
+</br>
+
+
+```
+Screenshots and GIFs
+```
+Can you show us?
+
+![?](suprise.gif)
+
+</br>
+
+
+```
+OS name and version
+```
+_MacOS 13.0.1_
+
+</br>
+
+```
+Enter browser name and full version
+```
+_Google Chrome,
+Version 107.0.5304.110 (Official Build) (arm64)_
+
+</br>
+
+```
+User information
+```
+**REMEMBER TO EXCLUDE SENSITIVE DATA!**
+
+_If relevant anything specific to you like logs, public links, wallet address, etc..._
+
+</br>
