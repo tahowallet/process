@@ -37,7 +37,8 @@ body:
   - type: dropdown
     id: browsers
     attributes:
-      label: What browsers are you seeing the problem on?
+      label: Browser
+      description: What browser are you running?
       multiple: true
       options:
         - Chrome
