@@ -1,7 +1,7 @@
 name: Bug Report
-description: File a bug report
+description: Report a bug!
 title: "[Bug]: "
-labels: ["bug", "triage"]
+labels: ["bug"]
 body:
   - type: markdown
     attributes:
@@ -47,11 +47,15 @@ body:
         - Other
     validations:
       required: true
-  - type: markdown
-    id: visuals
+  - type: textarea
+    id: images
     attributes:
-      value: |
-        Any images of gifs?
+      label: Images / Gifs
+      description: Can you show us visually? 
+      placeholder: Drop an image here!
+      value: "somebug.gif"
+    validations:
+      required: true 
   - type: checkboxes
     id: terms
     attributes:
