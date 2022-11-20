@@ -13,7 +13,7 @@ body:
       label: What's the problem?
       description: Do your best to describe the issue.
       placeholder: When I click on X from the welcome page Y happens.
-      value: "Something bad..."
+      value: "When I click on X from the welcome page Y happens."
     validations:
       required: true
   - type: textarea
@@ -22,7 +22,7 @@ body:
       label: What did you expect to happen?
       description: What were you expecting to happen?
       placeholder: I thought it would be different because...
-      value: "Some expectations..."
+      value: "I thought it would be different because..."
     validations:
       required: true 
   - type: textarea
@@ -31,7 +31,7 @@ body:
       label: Can we reproduce the issue?
       description: What steps did you take? Add as much detail as you can. 
       placeholder: 1. Opened the app... 2. Clicked the button... 3. Computer explodes...
-      value: "Some steps..."
+      value: "1. Opened the app... 2. Clicked the button... 3. Computer explodes..."
     validations:
       required: true   
   - type: dropdown
@@ -55,7 +55,17 @@ body:
       placeholder: Drop an image here!
       value: "Drop an image or Gif here!"
     validations:
-      required: true 
+      required: true  
+  - type: textarea
+    id: images
+    attributes:
+      label: Images / Gifs
+      description: Can you show us visually? 
+      placeholder: Drop an image here!
+      value: "Drop an image or Gif here!"
+    validations:
+      required: true
+
   - type: checkboxes
     id: terms
     attributes:
