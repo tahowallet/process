@@ -9,7 +9,7 @@ body:
       label: Does this issue already exist?
       options:
         - label: I could not find an existing issue for this bug
-          description:
+          description: ""
     validations:
       required: true
   - type: markdown
