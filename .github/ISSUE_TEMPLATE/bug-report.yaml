@@ -12,6 +12,10 @@ body:
         - label: I could not find an existing issue for this bug
     validations:
       required: true
+  - type: markdown
+  attributes:
+    value: |
+      Thanks for taking the time to fill out this bug! If you need real-time help, join us on Discord.
   - type: textarea
     id: description
     attributes:
