@@ -136,7 +136,12 @@ body:
       placeholder: Drop an image here!
       value: "Drop an image or Gif here!"
     validations:
-      required: true  
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+          <p></p>
+          <hr>
   - type: checkboxes
     id: terms
     attributes:
@@ -145,3 +150,6 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
+    - type: markdown
+    attributes:
+      value: <hr>
