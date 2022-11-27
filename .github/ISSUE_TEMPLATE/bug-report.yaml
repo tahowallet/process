@@ -56,16 +56,6 @@ body:
       value: "Drop an image or Gif here!"
     validations:
       required: true  
-  - type: textarea
-    id: images
-    attributes:
-      label: Images / Gifs
-      description: Can you show us visually? 
-      placeholder: Drop an image here!
-      value: "Drop an image or Gif here!"
-    validations:
-      required: true
-
   - type: checkboxes
     id: terms
     attributes:
