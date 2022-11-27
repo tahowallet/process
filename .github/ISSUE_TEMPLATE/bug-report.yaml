@@ -3,21 +3,15 @@ description: Report a bug!
 title: "[Bug]: "
 labels: ["bug"]
 body:
-  - type: markdown
-    attributes:
-      value: <p><hr></p>
   - type: checkboxes
     id: existing
     attributes:
       label: Does this issue already exist?
       description:
       options:
-        - label: I could not find an existing issue for this bug
+        - label: **I could not find an existing issue for this bug**
     validations:
       required: true
-  - type: markdown
-    attributes:
-      value: <p><hr></p>
   - type: textarea
     id: description
     attributes:
