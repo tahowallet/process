@@ -5,7 +5,8 @@ labels: ["bug"]
 body:
   - type: markdown
     attributes:
-      value: <hr>
+      value: |
+          <hr>
   - type: checkboxes
     id: existing
     attributes:
