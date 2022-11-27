@@ -5,8 +5,7 @@ labels: ["bug"]
 body:
   - type: markdown
     attributes:
-      value: |
-      
+      value: <br>
   - type: checkboxes
     id: existing
     attributes:
@@ -18,8 +17,7 @@ body:
       required: true
   - type: markdown
     attributes:
-      value: |
-
+      value: <br>
   - type: textarea
     id: description
     attributes:
