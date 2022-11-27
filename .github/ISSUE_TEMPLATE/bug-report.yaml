@@ -9,7 +9,7 @@ body:
       label: Does this issue already exist?
       description:
       options:
-        - label: **I could not find an existing issue for this bug**
+        - label: "**I could not find an existing issue for this bug**"
     validations:
       required: true
   - type: textarea
