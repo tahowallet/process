@@ -7,9 +7,9 @@ body:
     id: existing
     attributes:
       label: Does this issue already exist?
+      description:
       options:
         - label: I could not find an existing issue for this bug
-          description: ""
     validations:
       required: true
   - type: markdown
