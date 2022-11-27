@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        <br><br>
+      
   - type: checkboxes
     id: existing
     attributes:
@@ -19,7 +19,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        <br><br>
+
   - type: textarea
     id: description
     attributes:
