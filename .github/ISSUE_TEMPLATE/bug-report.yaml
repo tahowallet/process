@@ -4,13 +4,14 @@ title: "[Bug]: "
 labels: ["bug"]
 body:
   - type: checkboxes
-  id: existing
-  attributes:
-    label: Does this issue already exist?
-    description: Please take a moment to search through our outstanding issues
-    options:
-      - label: I agree to follow this project's Code of Conduct
-        required: true
+    id: existing
+    attributes:
+      label: Does this issue already exist?
+      description: Please take a moment to search through our outstanding issues
+      options:
+        - label: I agree to follow this project's Code of Conduct
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: |
